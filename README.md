@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Pawan Kumar
 
-### 🚀 Full Stack Developer | Software Engineering Student | B.Tech CSE | Aspiring Cloud & DevOps Engineer
+### 🚀 Full Stack Developer | Software Engineering Student | B.Tech CSE
 
 I'm a passionate **Full Stack Developer** and **B.Tech Computer Science & Engineering** student from **India**. I enjoy building web applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies. My goal is to become a skilled **Software Engineer** with expertise in **Full Stack Development, Cloud Computing, and DevOps**.
 
