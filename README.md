@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Software Engineering Student | B.Tech CSE
 
-I'm a passionate **Full Stack Developer** and **B.Tech Computer Science & Engineering** student from **India**. I enjoy building web applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies. My goal is to become a skilled **Software Engineer** with expertise in **Full Stack Development, Cloud Computing, and DevOps**.
+I'm a passionate **Full Stack Developer** and **B.Tech Computer Science & Engineering** student from **India**. I enjoy building web applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies. My goal is to become a skilled **Software Engineer** with expertise in **Full Stack Development**.
 
 * 🔭 **I'm currently working on:** Full Stack Development projects and improving my DSA skills.
 * 🌱 **I'm currently learning:** Java, Spring Boot, React.js, Node.js, SQL, MongoDB, Git, GitHub, AWS, and DevOps.
